@@ -5,7 +5,7 @@ import product4 from "./assets/products/4.png";
 import product5 from "./assets/products/5.png";
 import product6 from "./assets/products/6.webp";
 import product7 from "./assets/products/7.webp";
-import product8 from "./assets/products/8.webp";
+import product8 from "./assets/products/A5_V20_RTX_4050_medium.png";
 
 export const PRODUCTS = [
   {
